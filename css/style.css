@@ -1,0 +1,13 @@
+body {
+  background-color: darkblue;
+}
+
+h1 {
+    background-color: red;
+    color: hsl(144, 77, 44);
+    padding: 44px;
+    text-align: center;
+  }
+p{
+  background-color: whitesmoke;
+}
